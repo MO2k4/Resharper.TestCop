@@ -501,7 +501,7 @@ namespace TestCop.Plugin.OptionsPage
                     "maps to the namespace of the test within the single test project.";
 
                   AppendMoreInfoHyperLink(tbStrategyOverview
-                      , "http://testcop.codeplex.com/wikipage?title=Single%20Test%20Project%20Within%20Solution");
+                      , "https://github.com/testcop/docs/blob/master/wiki/Single_Test_Project_Within_Solution.md");
                       
                   break;
 
@@ -513,7 +513,7 @@ namespace TestCop.Plugin.OptionsPage
                     "maps to the name of the code project.  For example : DalTests => Dal";
 
                   AppendMoreInfoHyperLink(tbStrategyOverview
-                    ,"http://testcop.codeplex.com/wikipage?title=Each%20test%20project%20maps%20to%20a%20code%20project%20via%20project%20name");
+                    , "https://github.com/testcop/docs/blob/master/wiki/Each_test_project_maps_to_a_code_project_via_project_name.md");
 
                   break;
 
@@ -524,7 +524,7 @@ namespace TestCop.Plugin.OptionsPage
                     "maps to the namespace of the code project. For example : mycorp.myapp.tests.dal => mycorp.myapp.dal";
 
                   AppendMoreInfoHyperLink(tbStrategyOverview
-                          ,"http://testcop.codeplex.com/wikipage?title=Each%20test%20project%20maps%20to%20a%20code%20project%20via%20namespace");
+                          , "https://github.com/testcop/docs/blob/master/wiki/Each_test_project_maps_to_a_code_project_via_namespace.md");
                       
                   break;
 
